@@ -1,5 +1,7 @@
 <template>
-  <h1>This is Download View</h1>
+  <div>
+    <p>This is Download View</p>
+  </div>
 </template>
 
 <script>
